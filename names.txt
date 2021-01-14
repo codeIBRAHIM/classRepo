@@ -1,3 +1,6 @@
 1.muhammad
 2.ibrahim
 3.ishak
+4.maryam
+5.lawal
+6.james
